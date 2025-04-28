@@ -30,5 +30,5 @@
 
 ---
 
-_© 2025 Kirill Domitin
+© 2025 Kirill Domitin
 
